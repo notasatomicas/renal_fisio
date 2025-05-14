@@ -33,14 +33,11 @@ La capacidad de una solución para ejercer una presión osmótica depende de la 
   - **Sodio (Na⁺) y sus aniones asociados (Cl⁻, HCO₃⁻)**
   - Glucosa
   - Urea (BUN – Blood Urea Nitrogen)
+  
+  > 📌 Fórmula clínica aproximada para calcular la osmolaridad plasmática:
+  >
+  > ![Fórmula de osmolaridad](https://quicklatex.com/cache3/ac/ql_d44d688b61441aaed7e6c059df6efcac_l3.png)
 
-> 📌 Fórmula clínica aproximada para calcular la osmolaridad plasmática:
->
-> \[
-> \text{Osmolaridad (mOsm/L)} \approx 2 \times [\text{Na}^+] + \frac{\text{Glucosa (mg/dL)}}{18} + \frac{\text{BUN (mg/dL)}}{2.8}
-> \]
-
-[https://quicklatex.com/cache3/ac/ql_d44d688b61441aaed7e6c059df6efcac_l3.png]()
 ---
 
 ### 4. Aplicaciones fisiológicas
