@@ -40,7 +40,7 @@ La capacidad de una solución para ejercer una presión osmótica depende de la 
 > \text{Osmolaridad (mOsm/L)} \approx 2 \times [\text{Na}^+] + \frac{\text{Glucosa (mg/dL)}}{18} + \frac{\text{BUN (mg/dL)}}{2.8}
 > \]
 
-(https://quicklatex.com/cache3/ac/ql_d44d688b61441aaed7e6c059df6efcac_l3.png)[https://quicklatex.com/cache3/ac/ql_d44d688b61441aaed7e6c059df6efcac_l3.png]
+[https://quicklatex.com/cache3/ac/ql_d44d688b61441aaed7e6c059df6efcac_l3.png]()
 ---
 
 ### 4. Aplicaciones fisiológicas
